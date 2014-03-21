@@ -1,4 +1,4 @@
-### WIP - will finish when i get some free time!
+### WIP - will finish when i get some free time! :)
 temperature-sensitive-lamp
 ---
 
